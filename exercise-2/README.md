@@ -10,4 +10,3 @@ In the space below, make a three column table of the current courses you are tak
 |**INFO 102**     |_Gender and Information Technology_|Laura B. Schildkraut|
 |**INFO 201**     |_Technical Foundations_            |Michael Freeman     |
 |**PHIL 242**     |_Introduction to Medical Ethics_   |Carina Fourie       |
-See `complete` branch for answers.
